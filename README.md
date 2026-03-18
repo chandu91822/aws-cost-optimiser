@@ -83,7 +83,6 @@ It leverages **AWS Lambda, Boto3, and SNS** to automate snapshot analysis, safe 
 ```
 .
 ├── lambda_function.py   # Main AWS Lambda logic
-├── requirements.txt     # Dependencies (if needed)
 └── README.md            # Documentation
 ```
 
